@@ -13,6 +13,17 @@ a {
     text-shadow: 2px 2px 25px black;
 }
 
+.main-list, h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 50px black;
+}
+
+h1 {
+    font-size: 120px;
+}
+
 button {
     background-color: transparent;
     border: none;
@@ -26,13 +37,6 @@ button:hover {
 }
 
 
-h1, ul {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: white;
-    text-align: center;
-    font-size: 120px;
-    text-shadow: 2px 2px 50px black;
-}
 
 ul {
     font-size: 40px;
